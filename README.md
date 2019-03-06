@@ -12,7 +12,7 @@ Usuário do Sistema / Analista de Suporte
 
 *	Clique no botão “Servidor Municipal” para acessar o sistema “GRP WEB” onde está o sistema de Gestão Educacional.
                               
-           [imagem]
+![gras](img/grp.png)
                               
 *	Para logar-se no sistema insira seus dados de Usuario e Senha:
 *	Usuario: (Número de matricula do servidor da Prefeitura Municipal de Suzano)
@@ -21,7 +21,8 @@ Usuário do Sistema / Analista de Suporte
 *	SGE  (Sistema de Gestão Educacional) é o sistema utilizado para realizar o Cadastro e 
 Matrícula de alunos.	
  	
-         [imagem]
+![gras](img/sistema.png)
+![gras](img/icone.png)
   
 ### 3.2.	Cadastrar um novo aluno. 
 *	Acesse o menu “Aluno” no menu lateral esquerdo.
@@ -32,7 +33,7 @@ Matrícula de alunos.
 
 *	No cadastro de aluno insira as informações correspondentes ao prontuario do mesmo.
 
-        [imagem]
+![gras](img/barra.png)
 
 ####	Dados Gerais.
 *	Nascimento
@@ -68,7 +69,7 @@ Matrícula de alunos.
 
 ####	Salve o cadastro. 
 
-          [imagem]
+![gras](img/salvar.png)
  
 ### 3.3.	Matricular um aluno em uma turma.
 ####	Acesse o menu “Matricula” no menu lateral esquerdo.
@@ -83,7 +84,7 @@ Matrícula de alunos.
 *	Turma.
 *	Aluno (Clique na lupa para pesquisar).
 *	Data de Matrícula.
-*	Clique em “Salvar”   para inserir o aluno da turma selecionada.
+*	Clique em “Salvar” ![gras](img/salvar2.png)  para inserir o aluno da turma selecionada.
 ### 4.	Referências
 #### Sistema SGE (Sistema de Gestão Educacional)  
 
