@@ -15,19 +15,19 @@ Usuário do Sistema / Analista de Suporte
 <p align="center">
   <img src="https://user-images.githubusercontent.com/47988034/53956282-f7153380-40b9-11e9-9046-7537be2c3f9b.png">
 </p>
-                                                                                                              
-![grp](https://user-images.githubusercontent.com/47988034/53956282-f7153380-40b9-11e9-9046-7537be2c3f9b.png)
-                              
+                                                                                                                                  
 *	Para logar-se no sistema insira seus dados de Usuario e Senha:
 *	Usuario: (Número de matricula do servidor da Prefeitura Municipal de Suzano)
 *	Senha: (Senha utilizada para acessar o Holerite, a senha permanece a mesma para todos os sistemas Sonner).
 *	O Sistema de Gestão Educacional se encontra no menu “Sistemas” na barra superior da janela.
 *	SGE  (Sistema de Gestão Educacional) é o sistema utilizado para realizar o Cadastro e 
 Matrícula de alunos.	
- 	
-![sistema](https://user-images.githubusercontent.com/47988034/53956329-1613c580-40ba-11e9-91a3-f98114888fe8.png)
-![icone](https://user-images.githubusercontent.com/47988034/53956302-03998c00-40ba-11e9-8322-d1e833a68750.png)
-  
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/47988034/53956329-1613c580-40ba-11e9-91a3-f98114888fe8.png">
+    <img src="https://user-images.githubusercontent.com/47988034/53956302-03998c00-40ba-11e9-8322-d1e833a68750.png">
+</p>
+
 ### 3.2.	Cadastrar um novo aluno. 
 *	Acesse o menu “Aluno” no menu lateral esquerdo.
 *	Cadastros – Cadastro de Aluno.
