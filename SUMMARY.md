@@ -2,5 +2,5 @@
 
 * [Help Desk](helpDesk/README.md)
 
-    * [Guia Gestão Educacional](helpDesk/gestaoEducacional)
-    * [Guia Controle Interno](helpDesk/controleInterno)
+    * [Guia Gestão Educacional](helpDesk/gestaoEducacional.md)
+    * [Guia Controle Interno](helpDesk/controleInterno.md)
