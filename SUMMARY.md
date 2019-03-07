@@ -1,6 +1,6 @@
 # Summary
 
-* [Help Desk](helpDesk/README.md)
+* [Gestao Educacional](guias/gestaoEducacional.md)
+* [Contro Interno](guias/controleInterno.md)
 
-    * [Guia Gestão Educacional](helpDesk/gestaoEducacional.md)
-    * [Guia Controle Interno](helpDesk/controleInterno.md)
+    
