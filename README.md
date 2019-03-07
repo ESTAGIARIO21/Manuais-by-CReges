@@ -12,9 +12,11 @@ Usuário do Sistema / Analista de Suporte
 
 *	Clique no botão “Servidor Municipal” para acessar o sistema “GRP WEB” onde está o sistema de Gestão Educacional.
 
-<p align-"center">
+<p align="center"> 
+<img src=https://user-images.githubusercontent.com/47988034/53956282-f7153380-40b9-11e9-9046-7537be2c3f9b.png">
+                                                                                                              </p>
+                                                                                                              
 ![grp](https://user-images.githubusercontent.com/47988034/53956282-f7153380-40b9-11e9-9046-7537be2c3f9b.png)
-</p>
                               
 *	Para logar-se no sistema insira seus dados de Usuario e Senha:
 *	Usuario: (Número de matricula do servidor da Prefeitura Municipal de Suzano)
