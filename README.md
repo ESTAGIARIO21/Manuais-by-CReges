@@ -74,9 +74,7 @@ Matrícula de alunos.
 
 ####	Salve o cadastro. 
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/47988034/53956311-0a280380-40ba-11e9-8029-7cc91f604999.png">
-</p>
+![salvar1](https://user-images.githubusercontent.com/47988034/53956311-0a280380-40ba-11e9-8029-7cc91f604999.png)
  
 ### 3.3.	Matricular um aluno em uma turma.
 ####	Acesse o menu “Matricula” no menu lateral esquerdo.
