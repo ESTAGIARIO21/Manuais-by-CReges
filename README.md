@@ -12,7 +12,7 @@ Usuário do Sistema / Analista de Suporte
 
 *	Clique no botão “Servidor Municipal” para acessar o sistema “GRP WEB” onde está o sistema de Gestão Educacional.
                               
-![gras](img/grp.png)
+![grp](https://user-images.githubusercontent.com/47988034/53956282-f7153380-40b9-11e9-9046-7537be2c3f9b.png)
                               
 *	Para logar-se no sistema insira seus dados de Usuario e Senha:
 *	Usuario: (Número de matricula do servidor da Prefeitura Municipal de Suzano)
@@ -21,8 +21,8 @@ Usuário do Sistema / Analista de Suporte
 *	SGE  (Sistema de Gestão Educacional) é o sistema utilizado para realizar o Cadastro e 
 Matrícula de alunos.	
  	
-![gras](img/sistema.png)
-![gras](img/icone.png)
+![sistema](https://user-images.githubusercontent.com/47988034/53956329-1613c580-40ba-11e9-91a3-f98114888fe8.png)
+![icone](https://user-images.githubusercontent.com/47988034/53956302-03998c00-40ba-11e9-8322-d1e833a68750.png)
   
 ### 3.2.	Cadastrar um novo aluno. 
 *	Acesse o menu “Aluno” no menu lateral esquerdo.
@@ -33,7 +33,8 @@ Matrícula de alunos.
 
 *	No cadastro de aluno insira as informações correspondentes ao prontuario do mesmo.
 
-![gras](img/barra.png)
+![barra](https://user-images.githubusercontent.com/47988034/53956104-77876480-40b9-11e9-9576-18a71d7a2aec.png)
+
 
 ####	Dados Gerais.
 *	Nascimento
@@ -69,7 +70,7 @@ Matrícula de alunos.
 
 ####	Salve o cadastro. 
 
-![gras](img/salvar.png)
+![salvar1](https://user-images.githubusercontent.com/47988034/53956311-0a280380-40ba-11e9-8029-7cc91f604999.png)
  
 ### 3.3.	Matricular um aluno em uma turma.
 ####	Acesse o menu “Matricula” no menu lateral esquerdo.
@@ -84,7 +85,8 @@ Matrícula de alunos.
 *	Turma.
 *	Aluno (Clique na lupa para pesquisar).
 *	Data de Matrícula.
-*	Clique em “Salvar” ![gras](img/salvar2.png)  para inserir o aluno da turma selecionada.
+*	Clique em “Salvar” ![salvar2](https://user-images.githubusercontent.com/47988034/53956318-0e542100-40ba-11e9-9362-0c38381795f3.png) para inserir o aluno da turma selecionada.
+
 ### 4.	Referências
 #### Sistema SGE (Sistema de Gestão Educacional)  
 
