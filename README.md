@@ -11,9 +11,9 @@ Usuário do Sistema / Analista de Suporte
 *	http://www.suzano.sp.gov.br/web/
 
 *	Clique no botão “Servidor Municipal” para acessar o sistema “GRP WEB” onde está o sistema de Gestão Educacional.
-
-<p align="center"> 
-<img src=user-images.githubusercontent.com/47988034/53956282-f7153380-40b9-11e9-9046-7537be2c3f9b.png">
+                                                                                                
+<p align="center">
+  <img width="600" height="200" src="https://user-images.githubusercontent.com/47988034/53956282-f7153380-40b9-11e9-9046-7537be2c3f9b.png">
 </p>
                                                                                                               
 ![grp](https://user-images.githubusercontent.com/47988034/53956282-f7153380-40b9-11e9-9046-7537be2c3f9b.png)
