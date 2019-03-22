@@ -7,7 +7,7 @@ Este documento tem como objetivo descrever o processo de cadastro de *Turmas, Al
 Usuário do Sistema / Analista de Suporte
 
 ### 3.	Tarefas/Atividades
-####  3.1.	Acessar o Sistema de Educação
+####  3.1.	Acessar o Sistema de EducaçãoA
 
 *	Pode se acessar o sistema basta entrar no site da Prefeitura de Suzano:
 *	http://www.suzano.sp.gov.br/web/
@@ -68,47 +68,48 @@ Matrícula e Cadastro de alunos.
   <img src="https://user-images.githubusercontent.com/47988034/53956104-77876480-40b9-11e9-9576-18a71d7a2aec.png">
 </p>
 
-####	Dados Gerais.
+####    Dados Gerais.
 *	Nascimento
 *	Sexo Biológico.
-####	Origem.
+####    Origem.
 *	Dados do Pai. (Opcional cadastro completo)
 *	Dados da Mãe (Opcional cadastro completo)
 *	Naturalidade.
 *	Nacionalidade.
-####	Documentos Pessoais.
+####    Documentos Pessoais.
 *	Tipo do Documento.
 * Certidão de Nascimento (Nova ou Antiga).
 *  Documento.
 *	Emissão.
-####	Endereço
+####    Endereço
 *	CEP.
 *	Logradouro.
 *	Número.
 *	Completo.
 *	Bairro (Selecione)
 *	Localização (Urbano ou Rural).
-####	Contato.
+####    Contato.
 *	Tipo de Telefone.
 *	DDD.
 *	Número.
 *	Observação (Se necessário).
-####	Dados Educacionais.
+####    Dados Educacionais.
 *	RA/ORE.
-####	Responsável.
+####    Responsável.
 *	Outro.
 *	Parentesco
 *	Principal   (Selecione o CheckBox caso “Sim”)
 
-####	Salve o cadastro. 
+####    Salve o cadastro.
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/47988034/53956311-0a280380-40ba-11e9-8029-7cc91f604999.png">
 </p>
- 
-### 3.4.	Matricular um aluno em uma turma.
-####	Acesse o menu “Matricula” no menu lateral esquerdo.
-####	Matricula – Matricula atividade Curricular.
+
+###     3.4. Matricular um aluno em uma turma.
+
+####    Acesse o menu “Matricula” no menu lateral esquerdo.
+####    Matricula – Matricula atividade Curricular.
 
 ####  A tela de “Pesquisa de Matriculas em Atividade Curricular” será exibida para buscar alunos matriculados.
 ####  O botão “Novo” no canto superior direito permite matricular um novo aluno.
